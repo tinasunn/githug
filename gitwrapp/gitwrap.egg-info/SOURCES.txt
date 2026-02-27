@@ -1,0 +1,10 @@
+README.md
+setup.py
+gitwrap/__init__.py
+gitwrap/gitwrap.py
+gitwrap.egg-info/PKG-INFO
+gitwrap.egg-info/SOURCES.txt
+gitwrap.egg-info/dependency_links.txt
+gitwrap.egg-info/entry_points.txt
+gitwrap.egg-info/requires.txt
+gitwrap.egg-info/top_level.txt
